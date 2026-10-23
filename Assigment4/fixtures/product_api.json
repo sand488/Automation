@@ -1,0 +1,7 @@
+{
+  "source_endpoint": "mock://trainer-api/products/1",
+  "product": {
+    "brand": "Logitech",
+    "title": "M185 Wireless USB Mouse"
+  }
+}
